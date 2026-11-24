@@ -15,8 +15,8 @@ Based in Surabaya, Indonesia (UTC+7). Open to remote data analyst and business i
 ## Featured projects
 
 * [**Volve Field Production Analytics Dashboard**](https://github.com/resiayukp/volve-field-production-analytics-dashboard): 4-page Power BI dashboard on oil, gas, water production and water injection, with well-level and spatial analysis.
-* [**Symptom Classification with Logistic Regression**](https://github.com/resiayukp/symptom-classification-logistic-regression): eight models compared on an imbalanced dataset; why accuracy misleads and why the simplest model won.
 * [**Volve Field SQL Analysis**](https://github.com/resiayukp/volve-sql-analysis): window-function analysis of production, decline and injection, reconciled with the Power BI dashboard.
+* [**Symptom Classification with Logistic Regression**](https://github.com/resiayukp/symptom-classification-logistic-regression): eight models compared on an imbalanced dataset; why accuracy misleads and why the simplest model won.
   
 ## Contact
 
